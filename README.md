@@ -1,6 +1,6 @@
 ## Purpose 
 
-This repository will provide a method to create multiple Google Groups to force a conflict account for former employees who create personal Google Identities with their corporate email address. The benefit of creating a Google group rather than a Google user identity is the following: 
+This repository will provide a method to create multiple Google Groups to force a conflicting account for former employees who created personal Google Identities with their corporate email address. The benefit of creating a Google group rather than a Google user identity is the following:  
 
 1. Creating an identity for former employee will create policy issues for most organizations.
 1. Avoids using a license (Cloud Identity or Workspace) for a former employee.

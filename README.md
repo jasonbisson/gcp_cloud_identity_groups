@@ -5,6 +5,8 @@ This repository will provide a method to create multiple Google Groups to force 
 1. Creating an identity for former employee will create policy issues for most organizations.
 1. Avoids using a license (Cloud Identity or Workspace) for a former employee.
 
+If you have no idea what a conflict account is the best guide is found [here](https://www.goldyarora.com/google-conflicting-accounts-guide/).
+
 ## Prerequisites
 
 ### Terraform plugins
